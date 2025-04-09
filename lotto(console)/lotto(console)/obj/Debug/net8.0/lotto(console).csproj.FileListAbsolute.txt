@@ -1,0 +1,14 @@
+C:\Users\szt3torlas\source\vizs\lotto(console)\lotto(console)\obj\Debug\net8.0\lotto(console).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szt3torlas\source\vizs\lotto(console)\lotto(console)\obj\Debug\net8.0\lotto(console).AssemblyInfoInputs.cache
+C:\Users\szt3torlas\source\vizs\lotto(console)\lotto(console)\obj\Debug\net8.0\lotto(console).AssemblyInfo.cs
+C:\Users\szt3torlas\source\vizs\lotto(console)\lotto(console)\obj\Debug\net8.0\lotto(console).csproj.CoreCompileInputs.cache
+C:\Users\szt3torlas\source\vizs\lotto(console)\lotto(console)\bin\Debug\net8.0\lotto(console).exe
+C:\Users\szt3torlas\source\vizs\lotto(console)\lotto(console)\bin\Debug\net8.0\lotto(console).deps.json
+C:\Users\szt3torlas\source\vizs\lotto(console)\lotto(console)\bin\Debug\net8.0\lotto(console).runtimeconfig.json
+C:\Users\szt3torlas\source\vizs\lotto(console)\lotto(console)\bin\Debug\net8.0\lotto(console).dll
+C:\Users\szt3torlas\source\vizs\lotto(console)\lotto(console)\bin\Debug\net8.0\lotto(console).pdb
+C:\Users\szt3torlas\source\vizs\lotto(console)\lotto(console)\obj\Debug\net8.0\lotto(console).dll
+C:\Users\szt3torlas\source\vizs\lotto(console)\lotto(console)\obj\Debug\net8.0\refint\lotto(console).dll
+C:\Users\szt3torlas\source\vizs\lotto(console)\lotto(console)\obj\Debug\net8.0\lotto(console).pdb
+C:\Users\szt3torlas\source\vizs\lotto(console)\lotto(console)\obj\Debug\net8.0\lotto(console).genruntimeconfig.cache
+C:\Users\szt3torlas\source\vizs\lotto(console)\lotto(console)\obj\Debug\net8.0\ref\lotto(console).dll
